@@ -1,6 +1,6 @@
-# Welcome to the S26 MCU Workshop!
+# Welcome to the MCU Workshop!
 
-This workshop is hosted by the [University of Waterloo IDEAS Clinic](https://uwaterloo.ca/engineering-ideas-clinic/) for May 2026.
+This workshop is hosted by the [University of Waterloo IDEAS Clinic](https://uwaterloo.ca/engineering-ideas-clinic/).
 
 Please take a look at our setup instructions before starting our workshops:
 
