@@ -29,11 +29,11 @@ Each activity will introduce you to one key concept.
 After you complete each activity, you will have the knowhow to create your own Pong game.
 
 1. [Building the circuit for Pong](00_overview.ipynb)
-2. [Exercise 1: connecting to the screen](exercises/connect_to_screen/tutorial.ipynb)
-3. [Exercise 2: button polling](exercises/button_polling/tutorial.ipynb)
-4. [Exercise 3: interrupts](exercises/interrupts/tutorial.ipynb)
-5. [Exercise 4: time-based functions and how they are implemented under the hood](exercises/time_functions/tutorial.ipynb)
-6. [Build your own pong!](implementing_pong/instructions.ipynb)
+2. [Exercise 1: Wave Physics, Octaves & Acoustic Beats](exercises/connect_to_screen/tutorial.ipynb)
+3. [Exercise 2: Waveforms & Shaping Sound](exercises/button_polling/tutorial.ipynb)
+4. [Exercise 3: Hardware Assembly & Diagnostics](exercises/interrupts/tutorial.ipynb)
+5. [Exercise 4: Programming a 6-Key Synth](exercises/time_functions/tutorial.ipynb)
+6. [Custom Song Sequencer & Showcase](implementing_pong/instructions.ipynb)
 
 ---
 Next: [Building the circuit for Pong](00_overview.ipynb)
