@@ -1,0 +1,1 @@
+PCB_CONNECTION_CHECKER updated to read all potentiometer and buttons. 
